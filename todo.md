@@ -7,7 +7,7 @@
 [ ] Switch
 [x] Arrays
 [x] Slices
-[ ] Maps
+[x] Maps
 [ ] Range
 [x] Functions
 [x] Multiple Return Values
