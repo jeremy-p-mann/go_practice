@@ -6,7 +6,7 @@
 [x] If/Else
 [ ] Switch
 [x] Arrays
-[ ] Slices
+[x] Slices
 [ ] Maps
 [ ] Range
 [x] Functions
