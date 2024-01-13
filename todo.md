@@ -8,7 +8,7 @@
 [x] Arrays
 [x] Slices
 [x] Maps
-[ ] Range
+[x] Range
 [x] Functions
 [x] Multiple Return Values
 [ ] Variadic Functions
