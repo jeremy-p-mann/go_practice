@@ -19,7 +19,7 @@
 [x] Structs
 [x] Methods
 [x] Interfaces
-[ ] Struct Embedding
+[x] Struct Embedding
 [ ] Generics
 [ ] Errors
 [ ] Goroutines
