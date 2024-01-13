@@ -4,7 +4,7 @@
 [x] Constants
 [x] For
 [x] If/Else
-[ ] Switch
+[x] Switch
 [x] Arrays
 [x] Slices
 [x] Maps
