@@ -16,7 +16,7 @@
 [ ] Recursion
 [x] Pointers
 [ ] Strings and Runes
-[ ] Structs
+[x] Structs
 [ ] Methods
 [ ] Interfaces
 [ ] Struct Embedding
