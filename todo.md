@@ -17,8 +17,8 @@
 [x] Pointers
 [ ] Strings and Runes
 [x] Structs
-[ ] Methods
-[ ] Interfaces
+[x] Methods
+[x] Interfaces
 [ ] Struct Embedding
 [ ] Generics
 [ ] Errors
