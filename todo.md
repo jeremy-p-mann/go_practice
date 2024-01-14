@@ -15,7 +15,7 @@
 [x] Closures
 [x] Recursion
 [x] Pointers
-[ ] Strings and Runes
+[x] Strings and Runes
 [x] Structs
 [x] Methods
 [x] Interfaces
