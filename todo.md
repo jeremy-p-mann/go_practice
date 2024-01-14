@@ -51,7 +51,7 @@
 [ ] Regular Expressions
 [x] JSON
 [ ] XML
-[ ] Time
+[x] Time
 [ ] Epoch
 [x] Time Formatting / Parsing
 [ ] Random Numbers
