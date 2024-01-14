@@ -21,7 +21,7 @@
 [x] Interfaces
 [x] Struct Embedding
 [ ] Generics
-[ ] Errors
+[x] Errors
 [ ] Goroutines
 [ ] Channels
 [ ] Channel Buffering
