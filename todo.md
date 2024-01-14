@@ -43,7 +43,7 @@
 [ ] Sorting
 [ ] Sorting by Functions
 [ ] Panic
-[ ] Defer
+[x] Defer
 [ ] Recover
 [x] String Functions
 [x] String Formatting
