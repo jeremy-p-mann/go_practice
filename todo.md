@@ -13,7 +13,7 @@
 [x] Multiple Return Values
 [x] Variadic Functions
 [x] Closures
-[ ] Recursion
+[x] Recursion
 [x] Pointers
 [ ] Strings and Runes
 [x] Structs
