@@ -40,7 +40,7 @@
 [ ] Atomic Counters
 [ ] Mutexes
 [ ] Stateful Goroutines
-[ ] Sorting
+[x] Sorting
 [ ] Sorting by Functions
 [x] Panic
 [x] Defer
