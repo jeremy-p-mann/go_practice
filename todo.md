@@ -52,7 +52,7 @@
 [x] JSON
 [ ] XML
 [x] Time
-[ ] Epoch
+[x] Epoch
 [x] Time Formatting / Parsing
 [ ] Random Numbers
 [x] Number Parsing
