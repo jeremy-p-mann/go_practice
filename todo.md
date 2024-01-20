@@ -22,7 +22,7 @@
 [x] Struct Embedding
 [ ] Generics
 [x] Errors
-[ ] Goroutines
+[x] Goroutines
 [ ] Channels
 [ ] Channel Buffering
 [ ] Channel Synchronization
