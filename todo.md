@@ -23,7 +23,7 @@
 [ ] Generics
 [x] Errors
 [x] Goroutines
-[ ] Channels
+[x] Channels
 [ ] Channel Buffering
 [ ] Channel Synchronization
 [ ] Channel Directions
