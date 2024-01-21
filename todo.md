@@ -27,7 +27,7 @@
 [x] Channel Buffering
 [x] Channel Synchronization
 [x] Channel Directions
-[ ] Select
+[x] Select
 [ ] Timeouts
 [ ] Non-Blocking Channel Operations
 [ ] Closing Channels
