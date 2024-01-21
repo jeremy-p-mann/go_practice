@@ -25,7 +25,7 @@
 [x] Goroutines
 [x] Channels
 [x] Channel Buffering
-[ ] Channel Synchronization
+[x] Channel Synchronization
 [ ] Channel Directions
 [ ] Select
 [ ] Timeouts
