@@ -67,7 +67,7 @@
 [ ] Temporary Files and Directories
 [ ] Embed Directive
 [ ] Testing and Benchmarking
-[ ] Command-Line Arguments
+[x] Command-Line Arguments
 [ ] Command-Line Flags
 [ ] Command-Line Subcommands
 [x] Environment Variables
