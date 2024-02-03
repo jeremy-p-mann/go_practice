@@ -68,7 +68,7 @@
 [ ] Embed Directive
 [ ] Testing and Benchmarking
 [x] Command-Line Arguments
-[ ] Command-Line Flags
+[x] Command-Line Flags
 [ ] Command-Line Subcommands
 [x] Environment Variables
 [ ] Logging
