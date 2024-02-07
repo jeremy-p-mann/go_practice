@@ -57,7 +57,7 @@
 [ ] Random Numbers
 [x] Number Parsing
 [ ] URL Parsing
-[ ] SHA256 Hashes
+[x] SHA256 Hashes
 [ ] Base64 Encoding
 [x] Reading Files
 [ ] Writing Files
