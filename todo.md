@@ -64,7 +64,7 @@
 [ ] Line Filters
 [x] File Paths
 [x] Directories
-[ ] Temporary Files and Directories
+[x] Temporary Files and Directories
 [ ] Embed Directive
 [ ] Testing and Benchmarking
 [x] Command-Line Arguments
