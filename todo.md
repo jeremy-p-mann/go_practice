@@ -72,7 +72,7 @@
 [x] Command-Line Subcommands
 [x] Environment Variables
 [ ] Logging
-[ ] HTTP Client
+[x] HTTP Client
 [x] HTTP Server
 [ ] Context
 [ ] Spawning Processes
