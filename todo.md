@@ -54,7 +54,7 @@
 [x] Time
 [x] Epoch
 [x] Time Formatting / Parsing
-[ ] Random Numbers
+[x] Random Numbers
 [x] Number Parsing
 [ ] URL Parsing
 [x] SHA256 Hashes
