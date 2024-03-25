@@ -20,7 +20,7 @@
 [x] Methods
 [x] Interfaces
 [x] Struct Embedding
-[ ] Generics
+[x] Generics
 [x] Errors
 [x] Goroutines
 [x] Channels
