@@ -48,7 +48,7 @@
 [x] String Functions
 [x] String Formatting
 [x] Text Templates
-[ ] Regular Expressions
+[x] Regular Expressions
 [x] JSON
 [x] XML
 [x] Time
