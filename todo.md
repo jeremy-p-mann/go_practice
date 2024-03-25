@@ -66,7 +66,7 @@
 [x] Directories
 [x] Temporary Files and Directories
 [ ] Embed Directive
-[ ] Testing and Benchmarking
+[x] Testing and Benchmarking
 [x] Command-Line Arguments
 [x] Command-Line Flags
 [x] Command-Line Subcommands
