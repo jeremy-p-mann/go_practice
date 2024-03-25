@@ -50,7 +50,7 @@
 [x] Text Templates
 [ ] Regular Expressions
 [x] JSON
-[ ] XML
+[x] XML
 [x] Time
 [x] Epoch
 [x] Time Formatting / Parsing
